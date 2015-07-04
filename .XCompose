@@ -5,6 +5,9 @@
 <Multi_key> <Cyrillic_e> : "́" U0301
 <Multi_key> <Cyrillic_E> : "́" U0301
 
+<Multi_key> <less>        : "«" guillemotleft
+<Multi_key> <greater>     : "»" guillemotright
+
 <Multi_key> <Cyrillic_be> : "«" guillemotleft
 <Multi_key> <Cyrillic_BE> : "„" U201e
 <Multi_key> <Cyrillic_yu> : "»" guillemotright
@@ -15,25 +18,25 @@
 <Multi_key> <l> : "”" U201d
 <Multi_key> <L> : "’" U2019
 
-<Multi_key> <minus> : "—" U2014
+<Multi_key> <minus>      : "—" U2014
 <Multi_key> <underscore> : "–" U2013
 
-<Multi_key> <c> : "©" copyright
+<Multi_key> <c>           : "©" copyright
 <Multi_key> <Cyrillic_es> : "©" copyright
 
-<Multi_key> <r> : "®" registered
+<Multi_key> <r>           : "®" registered
 <Multi_key> <Cyrillic_ka> : "®" registered
 
 <Multi_key> <t> <m> : "™" U2122
 
 <Multi_key> <period> : "…" ellipsis
 
-<Multi_key> <Up> : "↑"
-<Multi_key> <Down> : "↓"
-<Multi_key> <Left> : "←" U2190
+<Multi_key> <Up>    : "↑"
+<Multi_key> <Down>  : "↓"
+<Multi_key> <Left>  : "←" U2190
 <Multi_key> <Right> : "→" U2192
 
-<Multi_key> <plus> : "±" plusminus
+<Multi_key> <plus>  : "±" plusminus
 <Multi_key> <equal> : "≠" U2260
 
 <Multi_key> <8> : "∞" U2260
