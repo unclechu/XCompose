@@ -1,0 +1,59 @@
+#include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+# accent
+<Multi_key> <apostrophe> : "́" U0301
+<Multi_key> <Cyrillic_e> : "́" U0301
+<Multi_key> <Cyrillic_E> : "́" U0301
+
+<Multi_key> <Cyrillic_be> : "«" guillemotleft
+<Multi_key> <Cyrillic_BE> : "„" U201e
+<Multi_key> <Cyrillic_yu> : "»" guillemotright
+<Multi_key> <Cyrillic_YU> : "“" U201c
+
+<Multi_key> <k> : "“" U201c
+<Multi_key> <K> : "‘" U2018
+<Multi_key> <l> : "”" U201d
+<Multi_key> <L> : "’" U2019
+
+<Multi_key> <minus> : "—" U2014
+<Multi_key> <underscore> : "–" U2013
+
+<Multi_key> <c> : "©" copyright
+<Multi_key> <Cyrillic_es> : "©" copyright
+
+<Multi_key> <r> : "®" registered
+<Multi_key> <Cyrillic_ka> : "®" registered
+
+<Multi_key> <t> <m> : "™" U2122
+
+<Multi_key> <period> : "…" ellipsis
+
+<Multi_key> <Up> : "↑"
+<Multi_key> <Down> : "↓"
+<Multi_key> <Left> : "←" U2190
+<Multi_key> <Right> : "→" U2192
+
+<Multi_key> <plus> : "±" plusminus
+<Multi_key> <equal> : "≠" U2260
+
+<Multi_key> <8> : "∞" U2260
+
+<Multi_key> <0> : "✘" U2718
+<Multi_key> <1> : "✔" U2714
+
+<Multi_key> <o> : "·" periodcentered
+<Multi_key> <O> : "•" enfilledcircbullet
+
+<Multi_key> <6> : "∧"
+<Multi_key> <v> : "∨"
+
+<Multi_key> <space> : " " nobreakspace
+
+<Multi_key> <asciitilde> <equal> : "≈" U2249
+
+<Multi_key> <s> : "★" U2605
+<Multi_key> <h> : "♥" U2665
+<Multi_key> <p> : "‣" U2023
+
+<Multi_key> <Cyrillic_ie> : "ѣ" U0463
+<Multi_key> <Cyrillic_IE> : "Ҍ" U0462
